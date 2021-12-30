@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://tahun-baru.github.io/hoki-banget/sitemap.xml
